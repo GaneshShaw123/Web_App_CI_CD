@@ -1,14 +1,12 @@
 # Simple DevOps Project
 
-This Repository is a collection of Implementation documents. 
-
 ### Purpose:
-By following this repository you can able to setup a DevOps CI/CD Pipeline using
+By following this repository we can able to setup a DevOps CI/CD Pipeline to build and deploy a java application.
 git- For local Version Control System.
 github -As distrubuted version Control System.
 Jenkins- As Continous Integration Tool.
 Maven- As a build tool.
-Ansible- Ansible For Configuration Management.
+Ansible- Ansible For Configuration Management and deployment.
 Docker- For Containerization.
 Kubernetes-for Container management Tool.
 
